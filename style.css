@@ -13,6 +13,9 @@ body {
   align-items: center;
 }
 
+h3{
+  color:#fff;
+}
 .cards {
   display: flex;
   flex-wrap: wrap;
